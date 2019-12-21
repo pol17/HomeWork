@@ -1,5 +1,3 @@
-package Сompiler;
-
 public class Dog_92 {
     String name;
 
