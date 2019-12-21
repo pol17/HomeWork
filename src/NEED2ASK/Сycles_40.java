@@ -1,4 +1,4 @@
-package NON;
+package NEED2ASK;
 
 public class Сycles_40 {
 
