@@ -25,9 +25,11 @@ public class Сycles_40 {
         } else {
             System.out.println("х не равен 10");
         }
-        if ((x < 3) & (name.equals("Кинжал"))) {
+
+        if ((x > 3) & (name.equals("Кинжал"))) {
             System.out.println("Осторожно");
         }
+
         System.out.println("Эта строка выполняется в любом случае");
     }
 }
